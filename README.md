@@ -1,25 +1,33 @@
-# Epicodus Boilerplate
+# Countdown Timer App
 
-#### _An HTML template that includes Bootstrap and jQuery CDN links, 1.28.2020_
+#### An app that counts down by seconds with revolving animation. 2/17/2020
 
-#### By _**Winter A. Runion**_
+#### By **Winter A. Runion**
 
-## Description
-_Epicodus intro student projects all use the same file tree and technology (Bootstrap and jQuery), so here they are, all linked together in one place for your convenience._ 
+### Description
+_An exercise in JS and CSS that follows along with [Colt Steele's Modern JS Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) on Udemy. Application displays a timer within a circle that the user can start and pause as the seconds count down._ 
 
-## Instructions
+### Instructions
 
-1. Push the green "Use This Template" button, create your own Github repo from this one, and clone/download it to your machine.
+* View the app [here]().
 
-2. Do your coding thing!
+### Specs
 
-3. Delete this README and use "README-template.md" to create your own.
+### Specs
+| Spec | Input | Output |
+| :-------------     | :------------- | :------------- |
+| **Timer** | -- | Page displays numeric timer |
+| **User can manually change number of seconds**| User Input: 29 | Output: 29 |
+| **Play Button Starts Timer**| (Click) | Timer countdown starts/restarts |
+| **Stop Button Stops Timer** | (Click) | Timer countdown stops |
+| **Circular Border** | -- | Page shows border around the timer |
+| **Border Animation** | -- | Border style updates every second |
 
-4. Enjoy not having to recreate this boilerplate for every single project you do!
+### Contact
 
-## Known Bugs
+Contact me if you have questions or comments at winterrunion@gmail.com
 
-None known. Contact me if you have issues: winterrunion@gmail.com
-
-#### License
+### License
 This software is licensed under the MIT license.
+
+_Copyright (c) 2020 **Winter A. Runion**_
